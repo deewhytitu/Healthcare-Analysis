@@ -3,6 +3,9 @@
 ### Project Overview
 This Project analyzes a dataset containing 55,500 unique patients records from 10 major hospitals across the United States using Power BI. The objective is to to identify key patterns in hospital performance, billing & costs, medication use, and admission types.
 
+![healthh](https://github.com/user-attachments/assets/9d19dbde-5313-4bbb-80ad-bd67f9c7a490)
+
+
 ### Data Source
 The dataset was a microsoft excel workbook file containing patients records from 10 hospitals across the US. It was gotten from Onyx data April 2025 dataset challenge.
 
